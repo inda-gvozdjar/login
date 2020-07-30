@@ -1,0 +1,51 @@
+
+  
+  .nav {
+    background: rgba(26, 195, 201, 0);
+    height: 60px;
+    width: 100%; 
+    margin-left: 2%;
+  }
+  
+  .nav li {
+    display: inline-block;
+    list-style: none;
+    height: 60px; 
+    line-height: 60px;
+    padding: 0 40px;
+  }
+  
+  .nav-link:hover {
+    color:  rgb(7, 5, 143);
+    
+  }
+  
+  .nav-link {
+    font-size: 20px;
+      transition: ease-in;
+    color: rgb(0, 240, 248);
+    text-decoration: none;
+  }
+
+  .logout-btn{
+      float: right;
+      margin-top: 2%;
+      margin-right: 4%;
+      background: rgba(26, 195, 201, 0);
+      border: none;
+      cursor: pointer;
+        color: rgb(7, 5, 143);
+    font-size: 15px;
+
+  }
+  .logout-btn:hover{
+      border: none;
+      color: rgb(14, 138, 209);
+  }
+
+
+  .navbar{
+      width: 100%;
+  }
+
+  
